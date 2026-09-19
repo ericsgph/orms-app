@@ -1,0 +1,16 @@
+**/.git
+**/.gitignore
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/.DS_Store
+**/node_modules
+**/*.swp
+**/*.swo
+**/Thumbs.db
+**/Coverage
+**/.nyc_output
+**/.sonarqube
+**/dist
+**/build

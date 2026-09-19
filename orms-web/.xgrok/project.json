@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "setup": "integrated",
+  "languages": [
+    "JavaScript/TypeScript",
+    "TypeScript"
+  ],
+  "stacks": [
+    "Node.js",
+    "TypeScript",
+    "React/Next"
+  ],
+  "markers": [
+    "package.json",
+    "tsconfig.json"
+  ],
+  "packageName": "orms-web",
+  "suggestedRun": "npm run dev",
+  "createdAt": "2026-09-13T09:59:27.433Z",
+  "tool": "xgrok"
+}
