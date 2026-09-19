@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Orms.Api/Orms.Api.csproj" />
+  <Project Path="Orms.Domain/Orms.Domain.csproj" />
+  <Project Path="Orms.Infrastructure/Orms.Infrastructure.csproj" />
+</Solution>
